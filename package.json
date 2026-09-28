@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "dotevn": "^0.0.1-security"
+    "dotenv": "^18.0.4"
   }
 }
